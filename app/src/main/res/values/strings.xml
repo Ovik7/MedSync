@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MedSync</string>
+    <string name="Rectangle">Rectangle</string>
+    <string name="Авторизация">Авторизация</string>
+    <string name="Добро_пожаловать">Добро пожаловать!</string>
+    <string name="введите_логин">Введите логин</string>
+    <string name="введите_пароль">Введите пароль</string>
+    <string name="регистрация">регистрация</string>
+    <string name="No_account">Нет аккаунта? Нажмите тут - </string>
+    <string name="вход">Выполнить вход</string>
 </resources>
