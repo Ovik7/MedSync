@@ -8,4 +8,38 @@
     <string name="регистрация">регистрация</string>
     <string name="No_account">Нет аккаунта? Нажмите тут - </string>
     <string name="вход">Выполнить вход</string>
+
+    <string name="регистрация1">Регистрация</string>
+    <string name="создание">Создание аккаунта</string>
+    <string name="фио">Введите ФИО</string>
+    <string name="подтверждение_пароля">Подтвердите пароль</string>
+    <string name="зарегисрироваться">Зарегистрироваться</string>
+    <string name="ознакомление">Нажмите, если ознакомились с </string>
+    <string name="правила">правилами пользования</string>
+
+    <string name="создание_записи">Создать запись</string>
+    <string name="изменение_записи">Изменить запись</string>
+    <string name="причина">Напишите причину отказа</string>
+    <string name="поддержка">Поддержка</string>
+    <string name="отмена_записи">Отменить запись</string>
+    <string name="дата">Укажите дату</string>
+    <string name="время">Укажите время</string>
+    <string name="место">Выберите место</string>
+    <string name="доктор">Выберите доктора</string>
+    <string name="тип_услуги">Выберите тип услуги</string>
+    <string name="помощь">Помощь</string>
+
+    <string name="обращение_номер">Обращение №3123</string>
+    <string name="текст1">Добрый День! Как я могу посмотреть информацию об последних посещениях?</string>
+    <string name="текст2">Здравствуйте! Вы можете увидеть эту информацию в Разделе Статистика. У вас есть еще какие-то вопросы?</string>
+    <string name="текст3">Спасибо за помощь!Вопросов нет.</string>
+    <string name="закрыто">Обращение №3123 Закрыто.</string>
+
+    <string name="записи">Записи</string>
+    <string name="Создать">Создать запись</string>
+    <string name="Отменить">Отменить запись</string>
+    <string name="Изменить">Изменить запись</string>
+    <string name="Актив">Активные записи</string>
+    <string name="Главная">Главная</string>
+
 </resources>
