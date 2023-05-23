@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159798046210",
+    "project_id": "medsync-a7777",
+    "storage_bucket": "medsync-a7777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159798046210:android:549febb5b42fcd076d011b",
+        "android_client_info": {
+          "package_name": "com.example.medsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159798046210-utq1sels07fk5h0dqsl5m7lu8ou9slh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medsync",
+            "certificate_hash": "b56e6aaec0abb4b7f2f59404ef1d15b19f14f12d"
+          }
+        },
+        {
+          "client_id": "159798046210-nj8ea9j7h6f6hskv4h742q40r1ti1c95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OscPFNLalWLqyV_R4HZcjoPpZGTxp6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159798046210-nj8ea9j7h6f6hskv4h742q40r1ti1c95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
