@@ -168,7 +168,6 @@
             android:layout_marginBottom="88dp"
             android:background="@color/white"
             android:fontFamily="@font/abel"
-            android:onClick="toastMe"
             android:text="@string/вход"
             android:textColor="@color/black"
             android:textSize="14sp"

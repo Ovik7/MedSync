@@ -15,11 +15,6 @@ class AuthFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        button.setOnClickListener{ view : View ->
-            view.findNavController().navigate(R.id.action_authFragment_to_mainFragment)
-        }
-
-
         val button = view.findViewById<Button>(R.id.button)
         button.setOnClickListener(View.OnClickListener {
             findNavController().navigate(R.id.action_authFragment_to_mainFragment)

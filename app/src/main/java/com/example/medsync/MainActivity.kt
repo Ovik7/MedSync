@@ -18,11 +18,11 @@ class MainActivity : AppCompatActivity() {
 
 
     }
-    fun toastMe(view: View) {
-        val myToast = Toast.makeText(this, "Hello, Toast!" , Toast.LENGTH_SHORT)
-
-        myToast.show()
-    }
+//    fun toastMe(view: View) {
+//        val myToast = Toast.makeText(this, "Hello, Toast!" , Toast.LENGTH_SHORT)
+//
+//        myToast.show()
+//    }
 //        val database = FirebaseDatabase.getInstance()
 //        val myRef = database.getReference("message")
 
